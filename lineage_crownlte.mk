@@ -45,4 +45,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.PDA=N960FXXU6FTK1
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    lineage.updater.uri=https://raw.githubusercontent.com/pakaoraki/OTA/lineage-18.1/crownlte.json
+    lineage.updater.uri=https://raw.githubusercontent.com/pakaoraki/OTA/lineage-18.1/crownlte_beta.json
